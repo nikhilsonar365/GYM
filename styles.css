@@ -65,7 +65,7 @@
       font-size: 1rem;
   }
   .hero {
-    background: url(img/carousel-2.jpg) no-repeat center center/cover;
+    background: url(carousel-2.jpg) no-repeat center center/cover;
     background-size: cover;
     background-position: top;
     color: white;
@@ -212,7 +212,7 @@
     padding: 20px;
     margin: 20px 0;
     color: white;
-    background: url(img/bg.jpg) no-repeat center center/cover;
+    background: url(bg.jpg) no-repeat center center/cover;
     background-size: cover;
     background-position: top;
     background-blend-mode: multiply;
@@ -306,7 +306,7 @@
   }
 
   .bmi-content {
-    background-image: url(img/carousel-1.jpg);
+    background-image: url(carousel-1.jpg);
     background-size: cover;
     background-position: top;
     background-blend-mode: multiply;
@@ -451,7 +451,7 @@
     display: flex;
     flex-direction: column;
     justify-content: center;
-    background-image: url(img/carousel-2.jpg);
+    background-image: url(carousel-2.jpg);
     background-size: cover;
     background-position: top;
     background-blend-mode: multiply;
@@ -526,7 +526,7 @@
   }
   
   .Footer {
-    background-image: url(img/bg.jpg);
+    background-image: url(bg.jpg);
     background-size: cover;
     background-position: top;
     background-blend-mode: multiply;
