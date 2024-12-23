@@ -65,7 +65,7 @@
       font-size: 1rem;
   }
   .hero {
-    background: url(carousel-2.jpg) no-repeat center center/cover;
+    background: url(./carousel-2.jpg) no-repeat center center/cover;
     background-size: cover;
     background-position: top;
     color: white;
